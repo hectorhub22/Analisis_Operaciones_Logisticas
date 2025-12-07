@@ -1,0 +1,11 @@
+driver_id,first_name,last_name,gender,date_of_birth,employment_start_date,employment_end_date,cdl_class,years_of_experience
+DRV00001,John,Doe,M,1985-06-15,2010-01-01,,A,13
+DRV00002,Jane,Smith,F,1990-03-22,2015-05-10,,B,8
+DRV00003,Bob,Johnson,M,1982-11-30,2012-07-15,,A,11
+DRV00004,Alice,Williams,F,1988-02-14,2018-09-01,,B,5
+DRV00005,Michael,Brown,M,1975-12-01,2005-03-20,2020-12-31,A,15
+DRV00006,Emily,Davis,F,1995-07-19,2020-01-15,,C,3
+DRV00007,David,Miller,M,1980-04-25,2010-11-01,,A,12
+DRV00008,Sarah,Wilson,F,1992-08-30,2019-06-01,,B,4
+DRV00009,James,Moore,M,1987-01-10,2016-04-15,,A,7
+DRV00010,Linda,Taylor,F,1983-09-05,2011-12-01,,B,10

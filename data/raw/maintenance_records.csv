@@ -1,0 +1,11 @@
+service_id,truck_id,maintenance_date,service_type,cost,downtime_hours,description
+MNT0001,TRK00001,2022-01-15,Oil Change,150.00,2,Regular oil change and filter replacement
+MNT0002,TRK00002,2022-02-20,Tire Rotation,100.00,1,Tire rotation and inspection
+MNT0003,TRK00003,2022-03-10,Brake Inspection,200.00,3,Inspection and replacement of brake pads
+MNT0004,TRK00001,2022-04-05,Engine Tune-Up,300.00,4,Complete engine tune-up and diagnostics
+MNT0005,TRK00002,2022-05-15,Transmission Service,400.00,5,Transmission fluid change and filter replacement
+MNT0006,TRK00003,2022-06-25,Annual Inspection,250.00,2,Annual safety and compliance inspection
+MNT0007,TRK00001,2022-07-30,Wheel Alignment,120.00,1,Wheel alignment and suspension check
+MNT0008,TRK00002,2022-08-18,Exhaust System Repair,350.00,3,Repair of exhaust leaks and replacement of muffler
+MNT0009,TRK00003,2022-09-22,Electrical System Check,180.00,2,Inspection and repair of electrical components
+MNT0010,TRK00001,2022-10-10,Fluid Flush,200.00,2,Flush of coolant and brake fluid systems

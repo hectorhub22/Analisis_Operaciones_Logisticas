@@ -1,0 +1,11 @@
+truck_id,acquisition_date,status,fleet_specifications
+TRK00001,2022-01-15,active,2021 Freightliner Cascadia
+TRK00002,2022-02-20,active,2021 Volvo VNL
+TRK00003,2022-03-10,active,2020 Kenworth T680
+TRK00004,2022-04-05,inactive,2019 Peterbilt 579
+TRK00005,2022-05-25,active,2021 International LT
+TRK00006,2022-06-30,active,2020 Mack Anthem
+TRK00007,2022-07-15,active,2021 Freightliner Cascadia
+TRK00008,2022-08-20,inactive,2018 Volvo VNL
+TRK00009,2022-09-10,active,2021 Kenworth T680
+TRK00010,2022-10-05,active,2020 Peterbilt 579

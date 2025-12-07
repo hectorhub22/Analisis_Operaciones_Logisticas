@@ -1,0 +1,11 @@
+accident_id,driver_id,truck_id,incident_date,incident_type,description,claims_amount
+INC0001,DRV00001,TRK00001,2022-03-15,Accident,Rear-end collision with another vehicle,$5000
+INC0002,DRV00002,TRK00002,2022-05-20,Violation,Speeding ticket received during a trip,$300
+INC0003,DRV00003,TRK00003,2022-07-10,Accident,Side collision at an intersection,$7000
+INC0004,DRV00004,TRK00004,2022-09-05,Accident,Truck rolled over due to sharp turn,$15000
+INC0005,DRV00005,TRK00005,2022-11-12,Violation,Failure to maintain proper logbook,$200
+INC0006,DRV00006,TRK00006,2023-01-25,Accident,Hit a stationary object while reversing,$4000
+INC0007,DRV00007,TRK00007,2023-03-30,Violation,Driving under the influence,$10000
+INC0008,DRV00008,TRK00008,2023-06-15,Accident,Collision with a pedestrian,$20000
+INC0009,DRV00009,TRK00009,2023-08-22,Accident,Multi-vehicle pileup on the highway,$25000
+INC0010,DRV00010,TRK00010,2023-10-10,Violation,Operating without a valid CDL,$5000

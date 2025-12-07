@@ -1,0 +1,11 @@
+city_pair, distance_miles, rate_per_mile
+"New York - Los Angeles", 2800, 3.50
+"Chicago - Houston", 1080, 2.80
+"San Francisco - Seattle", 800, 4.00
+"Miami - Atlanta", 660, 3.20
+"Dallas - Denver", 780, 2.90
+"Boston - Philadelphia", 300, 3.00
+"Phoenix - Las Vegas", 300, 3.75
+"Orlando - Tampa", 85, 2.50
+"Detroit - Cleveland", 170, 2.60
+"San Diego - San Francisco", 500, 4.20

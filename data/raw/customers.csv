@@ -1,0 +1,11 @@
+customer_id,shipper_name,contract_terms,revenue_potential
+CUST00001,Acme Corp,1 year,500000
+CUST00002,Global Industries,2 years,750000
+CUST00003,Tech Solutions,6 months,300000
+CUST00004,Food Distributors,1 year,450000
+CUST00005,Health Services,3 years,600000
+CUST00006,Construction Co,1 year,400000
+CUST00007,Textile Group,2 years,550000
+CUST00008,Automotive Parts,1 year,350000
+CUST00009,Electronics Inc,1 year,800000
+CUST00010,Pharmaceuticals Ltd,3 years,900000

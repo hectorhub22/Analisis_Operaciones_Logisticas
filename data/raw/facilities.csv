@@ -1,0 +1,6 @@
+facility_id,facility_name,facility_type,latitude,longitude,address,city,state,zip_code
+FAC00001,Main Terminal,Warehouse,34.0522,-118.2437,123 Main St,Los Angeles,CA,90001
+FAC00002,East Coast Terminal,Warehouse,40.7128,-74.0060,456 East St,New York,NY,10001
+FAC00003,Midwest Depot,Terminal,41.8781,-87.6298,789 Midwest Rd,Chicago,IL,60601
+FAC00004,Southwest Hub,Warehouse,33.4484,-112.0740,321 Southwest Blvd,Phoenix,AZ,85001
+FAC00005,Northern Terminal,Warehouse,45.5235,-122.6762,654 North St,Portland,OR,97201

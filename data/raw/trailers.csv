@@ -1,0 +1,11 @@
+trailer_id, trailer_type, current_assignment, acquisition_date, status
+TRL00001, Flatbed, Assigned to TRK00001, 2022-01-15, Active
+TRL00002, Dry Van, Assigned to TRK00002, 2022-02-20, Active
+TRL00003, Refrigerated, Assigned to TRK00003, 2022-03-10, Active
+TRL00004, Flatbed, Unassigned, 2022-04-05, Inactive
+TRL00005, Dry Van, Assigned to TRK00004, 2022-05-25, Active
+TRL00006, Refrigerated, Assigned to TRK00005, 2022-06-30, Active
+TRL00007, Flatbed, Unassigned, 2022-07-15, Inactive
+TRL00008, Dry Van, Assigned to TRK00006, 2022-08-20, Active
+TRL00009, Refrigerated, Assigned to TRK00007, 2022-09-10, Active
+TRL00010, Flatbed, Assigned to TRK00008, 2022-10-01, Active
